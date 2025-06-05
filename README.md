@@ -57,7 +57,8 @@ A simple streetmaps interface (like google maps) for fully fictional maps
 * Minecraft face 
 * Street view?
 * Admin Panel
-  
+* Bounty Board
+    
 ## Companion Mod
 * In game search
 * In game map hud
